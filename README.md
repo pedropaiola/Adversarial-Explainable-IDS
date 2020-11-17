@@ -1,6 +1,4 @@
-# Modelling Intrusion Detection: Analysis of a Feature Selection Mechanism
-Machine Learning with the NSL-KDD dataset for Network Intrusion Detection.
- DecisionTree_IDS.ipynb contains the analysis using Decision Tree Classifier.
- RandomForest_IDS.ipynb Contains the analysis using Random Forest Classifier.
- 
- This work aims to verify the work done by Nkiama, Said and Saidu (2016) in: https://thesai.org/Downloads/Volume7No4/Paper_19-A_Subset_Feature_Elimination_Mechanism_for_Intrusion_Detection_System.pdf
+# Classificação, Métodos Explicáveis e Ajustes em Dados de Segurança de Redes com Inteligência Artificial e Métodos Adversários
+
+Referências:
+D. L. Marino, C. S. Wickramasinghe, e M. Manic, “An Adversarial Approach for Explainable AI in Intrusion Detection Systems”, IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society. 2018, doi: 10.1109/iecon.2018.8591457.
